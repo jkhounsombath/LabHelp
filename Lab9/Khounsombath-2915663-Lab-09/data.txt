@@ -1,0 +1,12 @@
+Bulbasaur	1	Fushigidane
+Ivysaur		2	Fushigisou
+Venusaur	3	Fushigibana
+Charmander	4	Hitokage
+Charmeleon	5	Lizardo
+Charizard	6	Lizardon
+Squirtle	7	Zenigame
+Wartortle	8	Kameil
+Blastoise	9	Kamex
+Caterpie	10	Caterpie
+
+
